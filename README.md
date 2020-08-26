@@ -10,9 +10,9 @@
 ### Connect with me:
 
 [<img align="left" alt="johnisaig" width="22px" src="https://johnisaig.github.io/Portfolio/" />][website]
-[<img align="left" alt="johnisaig | LinkedIn" width="22px" src="https://www.linkedin.com/in/kelisaig" />][linkedin]
-[<img align="left" alt="johnisaig | Instagram" width="22px" src="https://www.instagram.com/keeeeeeeelz_/" />][instagram]
-[<img align="left" alt="johnisaig | Instagram" width="22px" src="https://web.facebook.com/isaigmichael" />][facebook]
+[<img align="left" alt="johnisaig" | LinkedIn" width="22px" src="https://www.linkedin.com/in/kelisaig" />][linkedin]
+[<img align="left" alt="johnisaig" | Instagram" width="22px" src="https://www.instagram.com/keeeeeeeelz_/" />][instagram]
+[<img align="left" alt="johnisaig" | Instagram" width="22px" src="https://web.facebook.com/isaigmichael" />][facebook]
 
 <br />
 
