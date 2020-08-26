@@ -1,11 +1,11 @@
 ### Hi there, I'm John Michael Isaig - Fullstack Developer 👋
 
- 🔭 I’m currently working freelance
- 🌱 I’m currently learning SvelteJS 
- 🤔 I’m looking for help with Nodejs
- 💬 Ask me anything
- 📫 How to reach me: isaigmichael30@gmail.com
- ⚡ Fun fact: I love watching tutorial videos and playing online games
+- 🔭 I’m currently working freelance
+- 🌱 I’m currently learning SvelteJS 
+- 🤔 I’m looking for help with Nodejs
+- 💬 Ask me anything
+- 📫 How to reach me: isaigmichael30@gmail.com
+- ⚡ Fun fact: I love watching tutorial videos and playing online games
 
 ### Connect with me:
 
