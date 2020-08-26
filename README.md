@@ -9,10 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="johnisaig" width="22px" src="https://johnisaig.github.io/Portfolio/" />][website]
-[<img align="left" alt="johnisaig" width="22px" src="https://www.linkedin.com/in/kelisaig" />][linkedin]
-[<img align="left" alt="johnisaig" width="22px" src="https://www.instagram.com/keeeeeeeelz_/" />][instagram]
-[<img align="left" alt="johnisaig" width="22px" src="https://web.facebook.com/isaigmichael" />][facebook]
+
+[<img align="left" alt="https://johnisaig.github.io/Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kelisaig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="keeeeeeeelz_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="isaigmichael | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][facebook]
 
 <br />
 
