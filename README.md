@@ -5,13 +5,6 @@
 - 🤔 I’m looking for help with Nodejs
 - 💬 Ask me anything
 
-### Connect with me:
-
-<img align="left" alt="https://johnisaig.github.io/Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="kelisaig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="keeeeeeeelz_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="isaigmichael | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-
 <br />
 
 ### Languages and Tools:
